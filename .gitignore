@@ -5,9 +5,6 @@ notebooks/2_trading_pattern_analysis.ipynb
 notebooks/3_technical_indicator_analysis.ipynb
 notebooks/4_profitability_analysis.ipynb
 __pycache__
-indicators.py
-logger.py
-main.py
-monitor.py
-strategy.py
+.env
 .vscode
+memo
